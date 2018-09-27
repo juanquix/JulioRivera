@@ -1,0 +1,12 @@
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\JulioRivero.Tesis.Contracts.dll.config
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\JulioRivero.Tesis.Contracts.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\JulioRivero.Tesis.Contracts.pdb
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\JulioRivero.Tesis.Entities.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\JulioRivero.Tesis.Entities.pdb
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\obj\Debug\JulioRivero.Tesis.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\obj\Debug\JulioRivero.Tesis.Contracts.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Contracts\obj\Debug\JulioRivero.Tesis.Contracts.pdb

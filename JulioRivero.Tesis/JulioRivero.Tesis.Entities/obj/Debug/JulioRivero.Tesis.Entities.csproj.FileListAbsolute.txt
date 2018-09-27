@@ -1,0 +1,9 @@
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\bin\Debug\JulioRivero.Tesis.Entities.dll.config
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\bin\Debug\JulioRivero.Tesis.Entities.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\bin\Debug\JulioRivero.Tesis.Entities.pdb
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\bin\Debug\EntityFramework.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\bin\Debug\EntityFramework.xml
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\obj\Debug\JulioRivero.Tesis.Entities.dll
+C:\Users\juanqui\Documents\Visual Studio 2015\Projects\JulioRivero.Tesis\JulioRivero.Tesis.Entities\obj\Debug\JulioRivero.Tesis.Entities.pdb
